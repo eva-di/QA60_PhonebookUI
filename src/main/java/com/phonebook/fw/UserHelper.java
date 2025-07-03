@@ -27,6 +27,7 @@ public class UserHelper extends BaseHelper {
     }
 
     public void clickOnLoginButton() {
+
         click(By.name("login"));
     }
 

@@ -22,7 +22,6 @@ public class DataProviders {
         return list.iterator();
     }
 
-
     @DataProvider
     public Iterator<Object[]> addNewContactWithScv() throws IOException {
         List<Object[]> list = new ArrayList<>();

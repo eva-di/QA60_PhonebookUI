@@ -7,4 +7,5 @@ public class ContactData {
     public static final String EMAIL = "zoe@gmail.com";
     public static final String ADDRESS = "Malta, Lemon street 12";
     public static final String DESCRIPTION = "Flight attendant";
+
 }
